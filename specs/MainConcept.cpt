@@ -1,0 +1,51 @@
+Created by testinium on 8.03.2021
+
+This is a concept file with following syntax for each concept.
+# <key> menüsüne geçilip <key1> listesinden restoran seçildi
+* "NoThanks" li elementi bul ve tıkla
+* <key> li elementi bul ve tıkla
+* "Rest_Text" li elementin değeri "Sipariş vermek için restoran seç" e eşitliğini kontrol et
+* Random swipe yap
+* <key1> li elementi rasgele sec
+* "Menu_Assertion" li elementin değeri "Popüler Ürünler" e eşitliğini kontrol et
+
+# <key> listesinden element seçilip <key1> ve <key2> fiyatları karşılaştırıldı
+* "2" saniye bekle
+* Random swipe yap
+* <key> li elementi rasgele sec
+* <key1> li elementin değeri <key2> e eşitliğini kontrol et bakalım Aykut
+
+# <key> elementine tıklandıktan sonra <key1> elementine geçildi
+* <key> li elementi bul ve tıkla
+* "10" saniye bekle
+* <key1> li elementi bul ve tıkla
+
+# <key> sayfasından <key1> sayfasına geçildi
+* "2" saniye bekle
+* <key> li elementi bul ve tıkla
+* "2" saniye bekle
+* "Cancel_Masterpass" li elementi bul ve tıkla
+* <key1> li elementi bul ve tıkla
+
+# <key> elementine tıklanıp <key1> ile işlem onaylandı
+* <key> li elementi bul ve tıkla
+* <key1> li elementi bul ve tıkla
+* "2" saniye bekle
+
+# <key> sayfasından sonra <key1> tıklanıp sayfaya geçildi
+* <key> li elementi bul ve tıkla
+* "Cancel_Masterpass_GelAl" li elementi bul ve tıkla
+* <key1> li elementi bul ve tıkla
+
+# <key> menüsüne geçilip <key1> restoranı seçildi
+* "NoThanks" li elementi bul ve tıkla
+* <key> li elementi bul ve tıkla
+* "NoThanks" li elementi bul ve tıkla
+* "Rest_Text" li elementin değeri "Şu an bulunduğun konumun çevresindeki restoranlar" e eşitliğini kontrol et
+* <key1> li elementi rasgele sec
+
+# Swipe yapıp <key> listesinden element seçildi
+* Random swipe yap
+* "2" saniye bekle
+* <key> li elementi rasgele sec
+* "Menu_Assertion" li elementin değeri "Popüler Ürünler" e eşitliğini kontrol et

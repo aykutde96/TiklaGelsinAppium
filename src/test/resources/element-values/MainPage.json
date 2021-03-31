@@ -1,0 +1,187 @@
+[
+  {
+  "key": "Sana_Gelsin",
+  "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[1]",
+  "androidType": "xpath",
+  "iosValue": "homePointCellBack",
+  "iosType": "id"
+},{
+  "key": "Burger_King",
+  "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.widget.ScrollView/android.view.ViewGroup/android.view.ViewGroup[1]/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.View",
+  "androidType": "xpath",
+  "iosValue": "homePointCellBack",
+  "iosType": "id"
+},{
+  "key": "Rest_Text",
+  "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.widget.TextView",
+  "androidType": "xpath",
+  "iosValue": "homePointCellBack",
+  "iosType": "id"
+},
+  {
+    "key": "Besiktas_Menu",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.widget.HorizontalScrollView/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.view.ViewGroup/android.view.ViewGroup[1]/android.view.ViewGroup[2]",
+    "androidType": "xpath",
+    "iosValue": "homePointCellBack",
+    "iosType": "id"
+
+  },
+  {
+    "key": "Sepete_Ekle",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[3]",
+    "androidType": "xpath",
+    "iosValue": "homePointCellBack",
+    "iosType": "id"
+
+  },
+  {
+    "key": "Sepete_Git",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.view.ViewGroup/androidx.appcompat.widget.LinearLayoutCompat/android.widget.FrameLayout/android.view.ViewGroup",
+    "androidType": "xpath",
+    "iosValue": "homePointCellBack",
+    "iosType": "id"
+  },
+  {
+    "key": "Fiyat1",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.widget.TextView[2]",
+    "androidType": "xpath",
+    "iosValue": "homePointCellBack",
+    "iosType": "id"
+  },
+  {
+    "key": "Fiyat2",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.widget.ScrollView/android.view.ViewGroup/android.view.ViewGroup[1]/android.view.ViewGroup/android.widget.TextView",
+    "androidType": "xpath",
+    "iosValue": "homePointCellBack",
+    "iosType": "id"
+  },
+  {
+    "key": "Menu_Assertion",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup/android.widget.HorizontalScrollView/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[1]/android.widget.TextView",
+    "androidType": "xpath",
+    "iosValue": "homePointCellBack",
+    "iosType": "id"
+  },
+  {
+    "key": "Gel_Al",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]",
+    "androidType": "xpath",
+    "iosValue": "homePointCellBack",
+    "iosType": "id"
+  },
+  {
+    "key": "Odeme_Sayfasi",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup",
+    "androidType": "xpath",
+    "iosValue": "homePointCellBack",
+    "iosType": "id"
+  },
+  {
+    "key": "Back_to_Basket",
+    "androidValue": "//android.widget.ImageButton[@content-desc='Navigate Up']",
+    "androidType": "xpath",
+    "iosValue": "homePointCellBack",
+    "iosType": "id"
+  },
+  {
+    "key": "Clean_Basket",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.widget.ScrollView/android.view.ViewGroup/android.view.ViewGroup[3]/android.widget.TextView",
+    "androidType": "xpath",
+    "iosValue": "homePointCellBack",
+    "iosType": "id"
+  },
+  {
+    "key": "Clean_Accept",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[2]/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[3]",
+    "androidType": "xpath",
+    "iosValue": "homePointCellBack",
+    "iosType": "id"
+  },
+  {
+    "key": "Cancel_Masterpass",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[1]/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.widget.ScrollView/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup/android.view.ViewGroup",
+    "androidType": "xpath",
+    "iosValue": "homePointCellBack",
+    "iosType": "id"
+  },
+
+  {
+    "key": "Random_Rest",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.widget.ScrollView/android.view.ViewGroup/android.view.ViewGroup",
+    "androidType": "xpath",
+    "iosValue": "homePointCellBack",
+    "iosType": "id"
+  },
+
+  {
+    "key": "Random_Menu",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.widget.HorizontalScrollView/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.view.ViewGroup/android.view.ViewGroup",
+    "androidType": "xpath",
+    "iosValue": "homePointCellBack",
+    "iosType": "id"
+  },
+
+  {
+    "key": "Burger_Rest",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.widget.ScrollView/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.View",
+    "androidType": "xpath",
+    "iosValue": "homePointCellBack",
+    "iosType": "id"
+  },
+
+  {
+    "key": "Random_Burger_Rest",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.widget.ScrollView/android.view.ViewGroup/android.view.ViewGroup",
+    "androidType": "xpath",
+    "iosValue": "homePointCellBack",
+    "iosType": "id"
+  },
+  {
+    "key": "Random_Burger_Menu",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.widget.HorizontalScrollView/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.view.ViewGroup/android.view.ViewGroup[1]/android.view.ViewGroup",
+    "androidType": "xpath",
+    "iosValue": "homePointCellBack",
+    "iosType": "id"
+  },
+
+  {
+    "key": "Cancel_Masterpass_GelAl",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[2]/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[1]/android.widget.TextView",
+    "androidType": "xpath",
+    "iosValue": "homePointCellBack",
+    "iosType": "id"
+  },
+
+  {
+    "key": "Closing",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[2]/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[1]/android.widget.TextView",
+    "androidType": "xpath",
+    "iosValue": "homePointCellBack",
+    "iosType": "id"
+  },
+
+  {
+    "key": "Allow_Button",
+    "androidValue": "com.android.packageinstaller:id/permission_allow_button",
+    "androidType": "id",
+    "iosValue": "homePointCellBack",
+    "iosType": "id"
+  },
+
+
+  {
+    "key": "NoThanks",
+    "androidValue": "android:id/button2",
+    "androidType": "id",
+    "iosValue": "homePointCellBack",
+    "iosType": "id"
+  }
+
+
+
+
+
+
+
+
+]
